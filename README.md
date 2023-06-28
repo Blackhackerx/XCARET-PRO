@@ -1,7 +1,6 @@
 # XCARET-PRO
-❤🌍 XCARET-PRO 🌺💙
+git clone https://github.com/Blackhackerx/XCARET-PRO
 
-## FAQ
+cd XCARET-PRO
 
-#### Price
-- 20$ per month
+python XCARET-PRO.py
